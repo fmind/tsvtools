@@ -1,0 +1,11 @@
+A	Y	M	M	M\tM	M\tM
+A	X	M	M	N	M	N
+A	Z	M	N
+
+B	X	O	O
+B	Y
+B
+
+B\tA	X\nY\nZ	X	Y	Z
+A\nB	Z\tZ\tZ	Z	X	Z
+A	B	X	Y	Z

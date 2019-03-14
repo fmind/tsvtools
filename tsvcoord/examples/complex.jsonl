@@ -1,0 +1,5 @@
+{"_id": "1", "_rev": 3, "a": true, "b\tc": true}
+
+{"_id": 2, "_rev": 2, "b\tc": true, "d\ne": true}
+
+{"a": true, "_rev": 8, "b\tc": true, "d\ne": true}

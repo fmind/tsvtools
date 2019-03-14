@@ -1,0 +1,7 @@
+A	B	C	D	E
+A	A	C	D
+
+A\tB	C\nD	E
+B\tA	C\nC	E
+
+A	X	Y	Z	E
